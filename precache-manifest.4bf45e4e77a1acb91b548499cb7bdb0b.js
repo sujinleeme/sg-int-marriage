@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48299e99c44b741bc4918b7c89cd225a",
+    "revision": "db8414f158e404815a8c52832099c5fb",
     "url": "/sg-intl-marriage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css"
   },
   {
-    "revision": "56e82dd797d403d42c48",
+    "revision": "a703ec1a22ab6d3b485e",
     "url": "/sg-intl-marriage/static/css/main.b408ccc5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sg-intl-marriage/static/js/2.643fcd21.chunk.js"
   },
   {
-    "revision": "56e82dd797d403d42c48",
-    "url": "/sg-intl-marriage/static/js/main.c34e2980.chunk.js"
+    "revision": "a703ec1a22ab6d3b485e",
+    "url": "/sg-intl-marriage/static/js/main.f8f2fa8f.chunk.js"
   },
   {
     "revision": "1ad89ae8973738b9c2f6",
