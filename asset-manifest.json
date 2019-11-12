@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sg-intl-marriage/static/css/main.0c3efb1c.chunk.css",
+    "main.css": "/sg-intl-marriage/static/css/main.b408ccc5.chunk.css",
     "main.js": "/sg-intl-marriage/static/js/main.c34e2980.chunk.js",
     "main.js.map": "/sg-intl-marriage/static/js/main.c34e2980.chunk.js.map",
     "runtime-main.js": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js",
@@ -9,10 +9,10 @@
     "static/js/2.643fcd21.chunk.js": "/sg-intl-marriage/static/js/2.643fcd21.chunk.js",
     "static/js/2.643fcd21.chunk.js.map": "/sg-intl-marriage/static/js/2.643fcd21.chunk.js.map",
     "index.html": "/sg-intl-marriage/index.html",
-    "precache-manifest.3d3887156287c8563fea57aa95eab185.js": "/sg-intl-marriage/precache-manifest.3d3887156287c8563fea57aa95eab185.js",
+    "precache-manifest.e502015824bd5a9ecd49d1ccae14dfaf.js": "/sg-intl-marriage/precache-manifest.e502015824bd5a9ecd49d1ccae14dfaf.js",
     "service-worker.js": "/sg-intl-marriage/service-worker.js",
     "static/css/2.fdec7c71.chunk.css.map": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css.map",
-    "static/css/main.0c3efb1c.chunk.css.map": "/sg-intl-marriage/static/css/main.0c3efb1c.chunk.css.map",
+    "static/css/main.b408ccc5.chunk.css.map": "/sg-intl-marriage/static/css/main.b408ccc5.chunk.css.map",
     "static/media/Couplering.389f1a07.svg": "/sg-intl-marriage/static/media/Couplering.389f1a07.svg",
     "static/media/HeartIcon.2dfc53e5.svg": "/sg-intl-marriage/static/media/HeartIcon.2dfc53e5.svg",
     "static/media/Heartline.8e0439d5.svg": "/sg-intl-marriage/static/media/Heartline.8e0439d5.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.7040ba25.js",
     "static/css/2.fdec7c71.chunk.css",
     "static/js/2.643fcd21.chunk.js",
-    "static/css/main.0c3efb1c.chunk.css",
+    "static/css/main.b408ccc5.chunk.css",
     "static/js/main.c34e2980.chunk.js"
   ]
 }

@@ -1,26 +1,14 @@
-@font-face {
-	font-family: "GothamPro";
-	src: url("fonts/GothamPro/GothamPro.eot?") format("eot"),
-		url("fonts/GothamPro/GothamPro.otf") format("opentype"),
-		url("fonts/GothamPro/GothamPro.woff") format("woff"),
-		url("fonts/GothamPro/GothamPro.ttf") format("truetype"),
-		url("fonts/GothamPro/GothamPro.svg#GothamPro") format("svg");
-}
-
-@font-face {
-	font-family: "GothamProBold";
-	src: url("fonts/GothamPro-Bold/GothamPro-Bold.eot") format("eot"),
-		url("fonts/GothamPro-Bold/GothamPro-Bold.otf") format("opentype"),
-		url("fonts/GothamPro-Bold/GothamPro-Bold.woff") format("woff"),
-		url("fonts/GothamPro-Bold/GothamPro-Bold.ttf") format("truetype"),
-		url("fonts/GothamPro-Bold/GothamPro-Bold.svg#GothamPro-Bold") format("svg");
-}
-
 /* noto-sans-regular - latin */
 @font-face {
 	font-family: "Noto Sans";
+	speak: none;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: subpixel-antialiased;
+
 	src: url("fonts/NotoSans/NotoSans-Regular.eot"); /* IE9 Compat Modes */
 	src: local("Noto Sans"), local("NotoSans"),
 		url("fonts/NotoSans/NotoSans-Regular.eot?#iefix")
@@ -37,8 +25,14 @@
 /* noto-serif-regular - latin */
 @font-face {
 	font-family: "Noto Serif";
+	speak: none;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: subpixel-antialiased;
+
 	src: url("fonts/NotoSerif/noto-serif-v8-latin-regular.eot"); /* IE9 Compat Modes */
 	src: local("Noto Serif"), local("NotoSerif"),
 		url("fonts/NotoSerif/noto-serif-v8-latin-regular.eot?#iefix")
