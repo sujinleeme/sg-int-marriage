@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/sg-intl-marriage/static/css/main.06b3830f.chunk.css",
-    "main.js": "/sg-intl-marriage/static/js/main.96eb0881.chunk.js",
-    "main.js.map": "/sg-intl-marriage/static/js/main.96eb0881.chunk.js.map",
+    "main.css": "/sg-intl-marriage/static/css/main.eb4fdab1.chunk.css",
+    "main.js": "/sg-intl-marriage/static/js/main.ac97a391.chunk.js",
+    "main.js.map": "/sg-intl-marriage/static/js/main.ac97a391.chunk.js.map",
     "runtime-main.js": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js",
     "runtime-main.js.map": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js.map",
     "static/css/2.fdec7c71.chunk.css": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css",
-    "static/js/2.643fcd21.chunk.js": "/sg-intl-marriage/static/js/2.643fcd21.chunk.js",
-    "static/js/2.643fcd21.chunk.js.map": "/sg-intl-marriage/static/js/2.643fcd21.chunk.js.map",
+    "static/js/2.fc22d129.chunk.js": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js",
+    "static/js/2.fc22d129.chunk.js.map": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js.map",
     "index.html": "/sg-intl-marriage/index.html",
-    "precache-manifest.f4a8a698c547d26b5781cbf3696c2fa7.js": "/sg-intl-marriage/precache-manifest.f4a8a698c547d26b5781cbf3696c2fa7.js",
+    "precache-manifest.1f8d2ce2e93cff9f395e54a1b8d5f951.js": "/sg-intl-marriage/precache-manifest.1f8d2ce2e93cff9f395e54a1b8d5f951.js",
     "service-worker.js": "/sg-intl-marriage/service-worker.js",
     "static/css/2.fdec7c71.chunk.css.map": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css.map",
-    "static/css/main.06b3830f.chunk.css.map": "/sg-intl-marriage/static/css/main.06b3830f.chunk.css.map",
+    "static/css/main.eb4fdab1.chunk.css.map": "/sg-intl-marriage/static/css/main.eb4fdab1.chunk.css.map",
     "static/media/Couplering.389f1a07.svg": "/sg-intl-marriage/static/media/Couplering.389f1a07.svg",
     "static/media/HeartIcon.2dfc53e5.svg": "/sg-intl-marriage/static/media/HeartIcon.2dfc53e5.svg",
     "static/media/Heartline.8e0439d5.svg": "/sg-intl-marriage/static/media/Heartline.8e0439d5.svg",
-    "static/media/LineChart.2e6e4313.svg": "/sg-intl-marriage/static/media/LineChart.2e6e4313.svg",
+    "static/media/LineChart.35ccfc7a.svg": "/sg-intl-marriage/static/media/LineChart.35ccfc7a.svg",
     "static/media/MarriageAgeChart.85e97256.svg": "/sg-intl-marriage/static/media/MarriageAgeChart.85e97256.svg",
     "static/media/map.3772607a.svg": "/sg-intl-marriage/static/media/map.3772607a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7040ba25.js",
     "static/css/2.fdec7c71.chunk.css",
-    "static/js/2.643fcd21.chunk.js",
-    "static/css/main.06b3830f.chunk.css",
-    "static/js/main.96eb0881.chunk.js"
+    "static/js/2.fc22d129.chunk.js",
+    "static/css/main.eb4fdab1.chunk.css",
+    "static/js/main.ac97a391.chunk.js"
   ]
 }
