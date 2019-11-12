@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/sg-intl-marriage/static/css/main.b5614065.chunk.css",
-    "main.js": "/sg-intl-marriage/static/js/main.17b09583.chunk.js",
-    "main.js.map": "/sg-intl-marriage/static/js/main.17b09583.chunk.js.map",
+    "main.js": "/sg-intl-marriage/static/js/main.ba89a0bd.chunk.js",
+    "main.js.map": "/sg-intl-marriage/static/js/main.ba89a0bd.chunk.js.map",
     "runtime-main.js": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js",
     "runtime-main.js.map": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js.map",
     "static/css/2.fdec7c71.chunk.css": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css",
     "static/js/2.fc22d129.chunk.js": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js",
     "static/js/2.fc22d129.chunk.js.map": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js.map",
     "index.html": "/sg-intl-marriage/index.html",
-    "precache-manifest.1a901febbe0b05aafffea129a96db5a8.js": "/sg-intl-marriage/precache-manifest.1a901febbe0b05aafffea129a96db5a8.js",
+    "precache-manifest.b4e509d47351230b08cf8f16a307e132.js": "/sg-intl-marriage/precache-manifest.b4e509d47351230b08cf8f16a307e132.js",
     "service-worker.js": "/sg-intl-marriage/service-worker.js",
     "static/css/2.fdec7c71.chunk.css.map": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css.map",
     "static/css/main.b5614065.chunk.css.map": "/sg-intl-marriage/static/css/main.b5614065.chunk.css.map",
     "static/media/Couplering.389f1a07.svg": "/sg-intl-marriage/static/media/Couplering.389f1a07.svg",
     "static/media/HeartIcon.2dfc53e5.svg": "/sg-intl-marriage/static/media/HeartIcon.2dfc53e5.svg",
     "static/media/Heartline.8e0439d5.svg": "/sg-intl-marriage/static/media/Heartline.8e0439d5.svg",
-    "static/media/LineChart.35ccfc7a.svg": "/sg-intl-marriage/static/media/LineChart.35ccfc7a.svg",
-    "static/media/MarriageAgeChart.85e97256.svg": "/sg-intl-marriage/static/media/MarriageAgeChart.85e97256.svg",
+    "static/media/LineChart.f983536f.svg": "/sg-intl-marriage/static/media/LineChart.f983536f.svg",
+    "static/media/MarriageAgeChart.9960f4d9.svg": "/sg-intl-marriage/static/media/MarriageAgeChart.9960f4d9.svg",
     "static/media/map.3772607a.svg": "/sg-intl-marriage/static/media/map.3772607a.svg"
   },
   "entrypoints": [
@@ -25,6 +25,6 @@
     "static/css/2.fdec7c71.chunk.css",
     "static/js/2.fc22d129.chunk.js",
     "static/css/main.b5614065.chunk.css",
-    "static/js/main.17b09583.chunk.js"
+    "static/js/main.ba89a0bd.chunk.js"
   ]
 }

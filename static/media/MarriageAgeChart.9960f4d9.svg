@@ -5,7 +5,7 @@
 <font horiz-adv-x="1000">
 <!-- Copyright (c) 2000 The Hoefler Type Foundry, Inc., dba Hoefler &amp; Frere-Jones. All Rights Reserved. -->
 <!-- Copyright: Copyright 2019 Adobe System Incorporated. All rights reserved. -->
-<font-face font-family="Noto Sans" units-per-em="1000" underline-position="-133" underline-thickness="20"/>
+<font-face font-family="Noto Sans KR" units-per-em="1000" underline-position="-133" underline-thickness="20"/>
 <missing-glyph horiz-adv-x="500" d="M0,0l500,0l0,700l-500,0M81,49l169,255l170,-255M49,96l0,508l171,-254M450,96l-171,254l171,254M250,395l-169,255l339,0z"/>
 <glyph unicode="8" horiz-adv-x="630" d="M315,-10C464,-10 578,70 578,189C578,274 517,331 434,362C499,392 554,442 554,523C554,633 443,710 315,710C187,710 76,633 76,525C76,442 131,392 196,362C112,332 52,273 52,190C52,71 166,-10 315,-10M315,390C226,390 155,442 155,518C155,590 224,641 315,641C406,641 475,589 475,520C475,442 404,390 315,390M315,59C200,59 132,119 132,190C132,270 213,325 315,325C417,325 498,270 498,192C498,119 430,59 315,59z"/>
 <glyph unicode="5" horiz-adv-x="612" d="M303,-12C449,-12 553,81 553,218C553,353 447,434 311,434C253,434 214,421 173,403l15,224l334,0l0,73l-403,0l-20,-341l53,-35C193,346 240,364 299,364C401,364 473,304 473,217C473,126 404,60 304,60C233,60 166,97 105,156l-52,-57C116,36 203,-12 303,-12z"/>
@@ -22,13 +22,13 @@
 </font>
 
 	<line fill="none" stroke="#776F71" stroke-width="0.3" stroke-miterlimit="10" stroke-dasharray="2,4" x1="33.9" y1="162.3" x2="482.7" y2="162.3"/>
-<text transform="matrix(1 0 0 1 26.9541 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">24                  </text>
-<text transform="matrix(1 0 0 1 100.0015 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">25                  </text>
-<text transform="matrix(1 0 0 1 174.0952 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">26                  </text>
-<text transform="matrix(1 0 0 1 248.9116 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">27                 </text>
-<text transform="matrix(1 0 0 1 323.7549 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">28                 </text>
-<text transform="matrix(1 0 0 1 398.5615 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">29                 </text>
-<text transform="matrix(1 0 0 1 473.7402 200.4292)" fill="#231815" font-family="'Noto Sans'" font-size="16px">30               </text>
+<text transform="matrix(1 0 0 1 26.9541 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">24                  </text>
+<text transform="matrix(1 0 0 1 100.0015 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">25                  </text>
+<text transform="matrix(1 0 0 1 174.0952 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">26                  </text>
+<text transform="matrix(1 0 0 1 248.9116 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">27                 </text>
+<text transform="matrix(1 0 0 1 323.7549 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">28                 </text>
+<text transform="matrix(1 0 0 1 398.5615 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">29                 </text>
+<text transform="matrix(1 0 0 1 473.7402 200.4292)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">30               </text>
 <rect x="371.7" y="3.6" fill="none" width="109.9" height="18.6"/>
 <path fill="#64DDC6" d="M495.5,90.7c-2.9,0-4.9-0.7-6.1-2.2c-1.6-2-1-4.7-1-4.7c0-0.2,0-0.3-0.1-0.5c-0.1-0.1-0.2-0.2-0.4-0.3
 	c-0.3-0.1-0.6,0.1-0.7,0.5c0,0.1-0.5,2.1,0.3,4.2c-9.1,6.5-16.4-0.9-16.7-1.2c-0.2-0.2-0.6-0.2-0.9,0c-0.2,0.2-0.2,0.6,0,0.9
@@ -206,7 +206,7 @@
 <path fill="none" stroke="#231815" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="1,4" d="M330.6,52.9
 	c0,0,73.8-60.6,157.2,0"/>
 <rect x="113.9" y="2.7" fill="none" width="82.9" height="33"/>
-<text transform="matrix(1 0 0 1 113.9096 16.3218)" fill="#231815" font-family="'Noto Sans'" font-size="16px">1984-1989</text>
+<text transform="matrix(1 0 0 1 113.9096 16.3218)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">1984-1989</text>
 <rect x="375.9" y="2.7" fill="none" width="82.9" height="19.5"/>
-<text transform="matrix(1 0 0 1 375.8582 16.3218)" fill="#231815" font-family="'Noto Sans'" font-size="16px">2010-2017</text>
+<text transform="matrix(1 0 0 1 375.8582 16.3218)" fill="#231815" font-family="'Noto Sans KR'" font-size="16px">2010-2017</text>
 </svg>
