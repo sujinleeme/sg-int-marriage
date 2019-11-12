@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac1f7e4f386cc48a4529238fcc92013f",
+    "revision": "b57528e1f181b1ebb3828a498fd042bf",
     "url": "/sg-intl-marriage/index.html"
   },
   {
-    "revision": "8862747f0ed8b58f3b23",
+    "revision": "12ada0bbc51672679a70",
     "url": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css"
   },
   {
-    "revision": "155b7d92c73ceacefcfa",
-    "url": "/sg-intl-marriage/static/css/main.c3088a7c.chunk.css"
+    "revision": "02835e4bb3c97b00c043",
+    "url": "/sg-intl-marriage/static/css/main.0c3efb1c.chunk.css"
   },
   {
-    "revision": "8862747f0ed8b58f3b23",
-    "url": "/sg-intl-marriage/static/js/2.9a73f32f.chunk.js"
+    "revision": "12ada0bbc51672679a70",
+    "url": "/sg-intl-marriage/static/js/2.643fcd21.chunk.js"
   },
   {
-    "revision": "155b7d92c73ceacefcfa",
-    "url": "/sg-intl-marriage/static/js/main.2c359761.chunk.js"
+    "revision": "02835e4bb3c97b00c043",
+    "url": "/sg-intl-marriage/static/js/main.c34e2980.chunk.js"
   },
   {
     "revision": "1ad89ae8973738b9c2f6",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sg-intl-marriage/static/media/MarriageAgeChart.85e97256.svg"
   },
   {
-    "revision": "510fd9e86e994c0a0276e9b2b9a4a2f4",
-    "url": "/sg-intl-marriage/static/media/map.510fd9e8.svg"
+    "revision": "3772607a4ac4c2ce10ca3498375f9337",
+    "url": "/sg-intl-marriage/static/media/map.3772607a.svg"
   }
 ]);
