@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ee60f700d79c23a0eb72310ebacaa52",
+    "revision": "52f286a34edf9ce039be2ca32e99956e",
     "url": "/sg-intl-marriage/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css"
   },
   {
-    "revision": "feac55e9c7ba9589c03b",
-    "url": "/sg-intl-marriage/static/css/main.b5614065.chunk.css"
+    "revision": "2f84f17877c10cd448e1",
+    "url": "/sg-intl-marriage/static/css/main.1125dcce.chunk.css"
   },
   {
     "revision": "b48a5d06bd4bf362b6cb",
     "url": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js"
   },
   {
-    "revision": "feac55e9c7ba9589c03b",
-    "url": "/sg-intl-marriage/static/js/main.3b259ca3.chunk.js"
+    "revision": "2f84f17877c10cd448e1",
+    "url": "/sg-intl-marriage/static/js/main.e31e0462.chunk.js"
   },
   {
     "revision": "1ad89ae8973738b9c2f6",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sg-intl-marriage/static/media/Heartline.8e0439d5.svg"
   },
   {
-    "revision": "f983536fda46f135af4de30fc77670db",
-    "url": "/sg-intl-marriage/static/media/LineChart.f983536f.svg"
+    "revision": "f572a01e3d97a6d905d4354e2211ab97",
+    "url": "/sg-intl-marriage/static/media/LineChart.f572a01e.svg"
   },
   {
     "revision": "9960f4d99c1c3e6f4fa34a8b3e215253",
