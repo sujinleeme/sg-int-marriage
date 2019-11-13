@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sg-intl-marriage/static/css/main.76aecfb9.chunk.css",
-    "main.js": "/sg-intl-marriage/static/js/main.05e92b56.chunk.js",
-    "main.js.map": "/sg-intl-marriage/static/js/main.05e92b56.chunk.js.map",
+    "main.css": "/sg-intl-marriage/static/css/main.672153f5.chunk.css",
+    "main.js": "/sg-intl-marriage/static/js/main.d9e529f8.chunk.js",
+    "main.js.map": "/sg-intl-marriage/static/js/main.d9e529f8.chunk.js.map",
     "runtime-main.js": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js",
     "runtime-main.js.map": "/sg-intl-marriage/static/js/runtime-main.7040ba25.js.map",
     "static/css/2.fdec7c71.chunk.css": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css",
-    "static/js/2.fc22d129.chunk.js": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js",
-    "static/js/2.fc22d129.chunk.js.map": "/sg-intl-marriage/static/js/2.fc22d129.chunk.js.map",
+    "static/js/2.95c14e75.chunk.js": "/sg-intl-marriage/static/js/2.95c14e75.chunk.js",
+    "static/js/2.95c14e75.chunk.js.map": "/sg-intl-marriage/static/js/2.95c14e75.chunk.js.map",
     "index.html": "/sg-intl-marriage/index.html",
-    "precache-manifest.6938de26033e942609461a9329e79db6.js": "/sg-intl-marriage/precache-manifest.6938de26033e942609461a9329e79db6.js",
+    "precache-manifest.231221dc3a26700821bcbae1d31231f2.js": "/sg-intl-marriage/precache-manifest.231221dc3a26700821bcbae1d31231f2.js",
     "service-worker.js": "/sg-intl-marriage/service-worker.js",
     "static/css/2.fdec7c71.chunk.css.map": "/sg-intl-marriage/static/css/2.fdec7c71.chunk.css.map",
-    "static/css/main.76aecfb9.chunk.css.map": "/sg-intl-marriage/static/css/main.76aecfb9.chunk.css.map",
+    "static/css/main.672153f5.chunk.css.map": "/sg-intl-marriage/static/css/main.672153f5.chunk.css.map",
     "static/media/Couplering.389f1a07.svg": "/sg-intl-marriage/static/media/Couplering.389f1a07.svg",
     "static/media/HeartIcon.2dfc53e5.svg": "/sg-intl-marriage/static/media/HeartIcon.2dfc53e5.svg",
     "static/media/Heartline.8e0439d5.svg": "/sg-intl-marriage/static/media/Heartline.8e0439d5.svg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.7040ba25.js",
     "static/css/2.fdec7c71.chunk.css",
-    "static/js/2.fc22d129.chunk.js",
-    "static/css/main.76aecfb9.chunk.css",
-    "static/js/main.05e92b56.chunk.js"
+    "static/js/2.95c14e75.chunk.js",
+    "static/css/main.672153f5.chunk.css",
+    "static/js/main.d9e529f8.chunk.js"
   ]
 }
