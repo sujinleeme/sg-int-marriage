@@ -10,7 +10,7 @@
 
 ---
 
-## 2nd Price of XDS Data Vis Storytelling Challenge 🥈
+## 2nd Prize of XDS Data Vis Storytelling Challenge 🥈
 
 <img src="photos/team.jpg" width="250" height="250" alt="team picture"/>
 
