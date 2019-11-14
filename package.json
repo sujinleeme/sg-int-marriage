@@ -1,0 +1,58 @@
+{
+	"name": "sg-intl-marriage",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@st-graphics/react-scrolly": "^0.0.9",
+		"d3": "^5.12.0",
+		"d3-force": "^2.0.1",
+		"d3-scale": "^3.2.0",
+		"d3-selection": "^1.4.0",
+		"d3-selection-multi": "^1.0.1",
+		"grommet": "^2.7.11",
+		"html-react-parser": "^0.9.1",
+		"lottie-web": "^5.5.9",
+		"node-sass": "^4.13.0",
+		"react": "^16.11.0",
+		"react-dom": "^16.11.0",
+		"react-lottie": "^1.2.3",
+		"react-scripts": "3.2.0",
+		"react-spinners": "^0.6.1",
+		"react-transition-group": "^4.3.0",
+		"styled-components": "^4.4.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject",
+		"lint": "eslint ."
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"homepage": "https://sujinleeme.github.io/sg-intl-marriage",
+	"devDependencies": {
+		"eslint": "^6.6.0",
+		"eslint-config-airbnb": "^18.0.1",
+		"eslint-config-node": "^4.0.0",
+		"eslint-config-prettier": "^6.5.0",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"eslint-plugin-node": "^10.0.0",
+		"eslint-plugin-prettier": "^3.1.1",
+		"eslint-plugin-react-hooks": "0.0.0-38dd17ab9",
+		"prettier": "^1.19.1"
+	}
+}
